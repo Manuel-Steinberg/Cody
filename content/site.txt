@@ -1,0 +1,17 @@
+Title: Cody
+
+----
+
+Author: Manuel Steinberg
+
+----
+
+Description: This is Project Cody.
+
+----
+
+Keywords: Cody
+
+----
+
+Copyright: © 2016 (link: https://www.manuel-steinberg.de text: Manuel Steinberg)
